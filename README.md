@@ -1,2 +1,2 @@
 # karel
-Platform game
+C# platform game
